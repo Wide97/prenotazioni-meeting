@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PrenotazioneMeetingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PrenotazioneMeetingApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PrenotazioneMeetingApplication.class, args);
+    }
+
 
 }
